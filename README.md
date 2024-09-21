@@ -8,3 +8,7 @@
 - Test if the deployment was a success by accessing http://ip-address
 - Test the pipeline by pushing some changes.
 
+## Expected outcomes
+![CICD Successful deployment](images/cicd.png)
+![Access to the application](images/react.png)
+
